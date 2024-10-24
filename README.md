@@ -22,3 +22,43 @@ The goal of this project is to build an end-to-end Machine Learning model that p
 ├── bulldozer_price_prediction.ipynb  # Main project notebook
 ├── end-to-end-bluebook-bulldozer-price-regression.ipynb  # End-to-end notebook with full pipeline
 ├── README.md                  # Project README file (this file)
+
+```
+## Installation
+
+To set up this project locally, follow the steps below:
+
+### Step 1: Clone the Repository
+
+First, clone the repository from GitHub and navigate into the project directory:
+
+```bash
+git clone https://github.com/Sohammhatre10/Cadmi_AI.git
+```
+### Step 2: Create and Activate the Conda Environment
+```bash
+conda create --prefix ./env pandas numpy matplotlib scikit-learn
+```
+### Step 3(optional): Install Jupyter
+```bash
+conda Install jupyter
+```
+### Step 4: Activate env/enviroment
+```bash
+conda activate (env path)
+```
+### Step 5: Launch Jupyter
+```bash
+jupyter notebook
+```
+
+### Key Notes:
+- **Clone the Repository**: Shows how to get the code locally.
+- **Environment Setup**: Step-by-step commands to create the Conda environment from the `Step 2`.
+- **Activating Environment**: Instructions to ensure the right environment is activated.
+- **Launching Jupyter**: Commands for starting Jupyter Notebook for an interactive workflow.
+
+####Let me know if you need any further customization!
+
+
+## Contributing
