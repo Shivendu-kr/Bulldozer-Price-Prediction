@@ -17,7 +17,7 @@ The goal of this project is to build an end-to-end Machine Learning model that p
 ```bash
 ├── data/                      # Folder containing dataset files
 │   └──  bluebook-for-bulldozers
-│     └── All csv files      
+│     └── All csv files      #Download link has been provided inside data file.
 ├── env/                       # Conda environment configuration folder
 ├── bulldozer_price_prediction.ipynb  # Main project notebook
 ├── end-to-end-bluebook-bulldozer-price-regression.ipynb  # End-to-end notebook with full pipeline
