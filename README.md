@@ -60,5 +60,3 @@ jupyter notebook
 
 #### Let me know if you need any further customization!
 
-
-## Contributing
